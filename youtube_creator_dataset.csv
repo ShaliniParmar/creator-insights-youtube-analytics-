@@ -1,0 +1,21 @@
+# YouTube Creator Dataset
+This dataset contains information about YouTube creators and their channel performance.
+### About the Dataset
+The dataset includes creator and channel details such as subscribers, views, likes, comments, videos and other performance metrics.
+### Purpose
+I created this dataset to practice data analysis and understand YouTube channel performance using different metrics.
+### File
+`youtube_creator_data.csv`
+The CSV file contains around 10,000 records.
+### Tools
+* SQL
+* Excel
+* Power BI
+### Analysis
+Some things that can be analyzed using this dataset:
+* Creator performance
+* Views and subscribers
+* Engagement
+* Video performance
+* Channel growth
+* Revenue-related metrics
