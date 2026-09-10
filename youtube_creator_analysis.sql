@@ -1,3 +1,7 @@
+create database youtubecreatordb;
+USE youTubecreatordb;
+SELECT TABLE_SCHEMA, TABLE_NAME
+FROM INFORMATION_SCHEMA.TABLES;
 1) Total number of videos
 SELECT COUNT(*) AS total_videos
 FROM youtube_creator_data;
@@ -64,7 +68,3 @@ SELECT Top 10
 video_id, title, category, views, subscribers_gained, ctr_pct, retention_pct
 FROM youtube_creator_data
 ORDER BY views DESC, subscribers_gained DESC
-
-
-
-
