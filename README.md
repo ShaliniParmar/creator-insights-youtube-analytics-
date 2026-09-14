@@ -1,4 +1,5 @@
-Creator Insights – YouTube Creator Analytics Product
+ CREATOR INSIGHTS
+ YouTube Creator Analytics Product
 
 Project Overview
 Creator Insights is a self-initiated Product Management + Business Analytics project designed to help small and growing YouTube creators understand content performance and make data-driven decisions.
